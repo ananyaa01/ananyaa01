@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Nothing fun in live has become my "Fun Fact"
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=dracula)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 
