@@ -1,4 +1,4 @@
-### Hola, I'm Ananya Agarwal 👋
+### Hola 👋
 
 
 - 🔭 I’m currently working on TabSaverEntension
