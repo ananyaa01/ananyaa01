@@ -8,5 +8,5 @@
 - 💬 Ask me about not reached that stage yet
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: There's no fun in live right now
+- ⚡ Fun fact: Nothing fun in live has become my "Fun Fact"
 
