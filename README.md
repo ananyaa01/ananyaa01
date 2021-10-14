@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on TabSaverEntension
- 🌱 I’m currently learning Node
+-🔭 I’m currently working on TabSaverEntension
+-🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on Backend Projects 
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about not reached that stage yet
