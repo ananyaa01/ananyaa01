@@ -13,10 +13,10 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=dracula)
-](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/ananyaa01)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa01&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa01&theme=dracula)](https://github.com/ananyaa01)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa01&theme=dracula)
 
