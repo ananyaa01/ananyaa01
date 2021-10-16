@@ -18,4 +18,8 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ananyaa01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa01&theme=dracula)](https://git.io/streak-stats)
+
+
+
 
