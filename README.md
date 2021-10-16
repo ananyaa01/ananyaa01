@@ -1,6 +1,6 @@
 ### Hola 👋 I'm Ananya Agarwal
 
-I am a sophomore at TIET,India pursuing B.Tech in Computer Science. I like to explore and learn about different things. 
+I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore and learn about different things. 
 
 
 - 🔭 I’m currently working on TabSaverEntension
