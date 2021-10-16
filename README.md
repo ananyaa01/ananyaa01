@@ -1,5 +1,7 @@
 ### Hola 👋 I'm Ananya Agarwal
 
+## I'm a sophomore at TIET,India
+
 
 - 🔭 I’m currently working on TabSaverEntension
 - 🌱 I’m currently learning Node
