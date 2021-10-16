@@ -20,6 +20,3 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa01&theme=dracula)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-
-
