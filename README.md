@@ -1,6 +1,6 @@
 ### Hola 👋 I'm Ananya Agarwal
 
-## I'm a sophomore at TIET,India
+#### I'm a sophomore at TIET,India
 
 
 - 🔭 I’m currently working on TabSaverEntension
