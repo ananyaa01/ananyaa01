@@ -7,7 +7,6 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 - 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on Backend Projects 
 - 🤔 I’m looking for help with DSA
-- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nothing fun in live has become my "Fun Fact"
 
