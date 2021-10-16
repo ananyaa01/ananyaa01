@@ -22,7 +22,7 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa01&theme=dracula)
 
-![Visitor Count](https://profile-counter.glitch.me/{ananyaa01}/count.svg)
+
 
 ### Connect With Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ananya-agarwal-2285081b9/)
