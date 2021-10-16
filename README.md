@@ -17,6 +17,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa01&theme=dracula)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa01&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa01&theme=dracula)
 
 
