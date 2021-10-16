@@ -10,6 +10,8 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nothing fun in live has become my "Fun Fact"
 
+###Skills
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=dracula)
 ](https://github.com/anuraghazra/github-readme-stats)
