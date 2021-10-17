@@ -17,7 +17,7 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa01&theme=dracula)](https://github.com/ananyaa01)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa01&theme=dracula)
+
 
 
 
