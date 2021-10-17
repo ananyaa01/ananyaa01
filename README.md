@@ -11,11 +11,6 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 - ⚡ Fun fact: Nothing fun in live has become my "Fun Fact"
 
 
-### Languages & Tools
-[![](Images/Figma.png)](https://www.figma.com/design/)
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=dracula)
 ](https://github.com/ananyaa01)
 
