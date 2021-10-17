@@ -13,6 +13,8 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 
 ### Languages & Tools
 [![](Images/Figma.png)](https://www.figma.com/design/)
+[![](Images/Flutter.png)](https://flutter.dev/?gclid=CjwKCAjwk6-LBhBZEiwAOUUDp8T_NreJxdUrgAioLLZ5xVpNNxd3LvScDEYNZJhi-U4a7qS_s9icQhoCnkAQAvD_BwE&gclsrc=aw.ds)
+[![](Images/c.png)](https://www.figma.com/design/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=dracula)
