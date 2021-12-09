@@ -8,7 +8,7 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 - 👯 I’m looking to collaborate on Projects 
 - 🤔 I’m looking for help with DSA
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Nothing fun in live has become my "Fun Fact"
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa01&show_icons=true&theme=dracula)
