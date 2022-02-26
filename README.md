@@ -3,11 +3,7 @@
 I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore and learn about different things. 
 
 
-- 🔭 I’m currently working on [TabSaverEntension](https://github.com/OWASP-STUDENT-CHAPTER/TabSaverExtension)
-- 🌱 I’m currently learning Node
-- 👯 I’m looking to collaborate on Projects 
-- 🤔 I’m looking for help with DSA
-- 😄 Pronouns: She/Her
+
 
 
 
