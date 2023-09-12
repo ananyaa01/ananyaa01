@@ -24,3 +24,5 @@ I am a sophomore at TIET pursuing B.Tech in Computer Science. I like to explore 
 
 
 ![](https://komarev.com/ghpvc/?username=ananyaa01)
+
+![snake gif](https://github.com/ananyaa01/ananyaa01/blob/output/github-contribution-grid-snake.svg)
