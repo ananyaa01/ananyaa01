@@ -14,11 +14,15 @@
 
 <div align="left">
  
- 🔭 I’m currently working in **NLP and ASR**
+ 🔭 I’m currently working in **NLP and Voice Analytics**
  
  🌱 I’m currently learning **Data Structures & Algorithms**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 👩‍💻 SEP Summer Intern'23 at [JP Morgan Chase & Co.](https://www.jpmorgan.com/global)
+
+
+
+ 💥 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
  
